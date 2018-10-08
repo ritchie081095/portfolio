@@ -15,7 +15,7 @@ class Header extends Component {
             <div className="container">
 
               <div className="logo">
-                <a href="index.html"><img src="/public/images/logo.png" alt="logo" /></a>
+                <a href="index.html"><img src="./images/logo.png" alt="logo" /></a>
               </div>
 
               <div className="responsive"><i data-icon="m" className="ion-navicon-round"></i></div>

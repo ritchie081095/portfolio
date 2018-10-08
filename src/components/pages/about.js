@@ -11,7 +11,7 @@ class About extends Component {
             <div className="col-lg-4 ">
               <div className="div-img-bg">
                 <div className="about-img">
-                  <img src="/public/images/me.jpg" className="img-responsive" alt="me" />
+                  <img src="./images/me.jpg" className="img-responsive" alt="me" />
                 </div>
               </div>
             </div>

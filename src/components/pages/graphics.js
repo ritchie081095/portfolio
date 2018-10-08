@@ -21,38 +21,38 @@ class Graphics extends Component {
           <div className="portfolio-container">
 
             <div className="col-lg-4 col-md-6 portfolio-thumbnail all branding uikits webdesign">
-              <a className="popup-img" href="images/portfolio/1.jpg">
-                <img src="/public/images/portfolio/1.jpg" alt="img" />
+              <a className="popup-img" href="./images/portfolio/1.jpg">
+                <img src="./images/portfolio/1.jpg" alt="img" />
               </a>
             </div>
 
             <div className="col-lg-4 col-md-6 portfolio-thumbnail all mockups uikits photography">
-              <a className="popup-img" href="images/portfolio/2.jpg">
-                <img src="/public/images/portfolio/2.jpg"  alt="img" />
+              <a className="popup-img" href="./images/portfolio/2.jpg">
+                <img src="./images/portfolio/2.jpg"  alt="img" />
               </a>
             </div>
 
             <div className="col-lg-4 col-md-6 portfolio-thumbnail all branding webdesig photographyn">
-              <a className="popup-img" href="images/portfolio/3.jpg">
-                <img src="/public/images/portfolio/3.jpg" alt="img" />
+              <a className="popup-img" href="./images/portfolio/3.jpg">
+                <img src="./images/portfolio/3.jpg" alt="img" />
               </a>
             </div>
 
             <div className="col-lg-4 col-md-6 portfolio-thumbnail all mockups webdesign photography">
-              <a className="popup-img" href="images/portfolio/4.jpg">
-                <img src="/public/images/portfolio/4.jpg" alt="img" />
+              <a className="popup-img" href="./images/portfolio/4.jpg">
+                <img src="./images/portfolio/4.jpg" alt="img" />
               </a>
             </div>
 
             <div className="col-lg-4 col-md-6 portfolio-thumbnail all branding uikits photography">
-              <a className="popup-img" href="images/portfolio/5.jpg">
-                <img src="/public/images/portfolio/5.jpg" alt="img" />
+              <a className="popup-img" href="./images/portfolio/5.jpg">
+                <img src="./images/portfolio/5.jpg" alt="img" />
               </a>
             </div>
 
             <div className="col-lg-4 col-md-6 portfolio-thumbnail all mockups uikits webdesign">
-              <a className="popup-img" href="images/portfolio/6.jpg">
-                <img src="/public/images/portfolio/6.jpg" alt="img" />
+              <a className="popup-img" href="./images/portfolio/6.jpg">
+                <img src="./images/portfolio/6.jpg" alt="img" />
               </a>
             </div>
 
