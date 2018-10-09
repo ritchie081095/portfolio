@@ -87,6 +87,12 @@ class Portfolio extends Component {
               <td>Front End Developer</td>
             </tr>
 
+            <tr>
+              <td>Sample Landing page</td>
+              <td><a href="http://ritchie.savagesmedia.com/" target="_blank" >http://ritchie.savagesmedia.com/</a></td>
+              <td>Front End Developer</td>
+            </tr>
+
 
            
             
